@@ -1,2 +1,5 @@
 # Microphone Stream
-- This is the interface for real-time recording while saving audio chunks
+```
+sudo apt-get update
+sudo apt-get install portaudio19-dev
+```
